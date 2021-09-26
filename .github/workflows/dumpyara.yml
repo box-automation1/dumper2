@@ -36,7 +36,7 @@ jobs:
        - name: Setup config envs And Begin Dump
          working-directory: phoenix_firmware_dumper
          run: |
-              NAME_OF_THIS_REPO="dumper"
+              NAME_OF_THIS_REPO="dumper2"
               GITHUB_ORG_NAME="boxaltdump"
               GITLAB_ORG_NAME="boxdumps"
               GITLAB_USERNAME="boxaltdumps"
