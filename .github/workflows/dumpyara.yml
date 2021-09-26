@@ -66,4 +66,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/crDroidAndroid-11.0-20210628-juice-v7.7.zip
+  ROM_URL: https://drive.google.com/open?id=11r0G6C4Nmpk48lczjDdw4n7kA3LjLsyP
