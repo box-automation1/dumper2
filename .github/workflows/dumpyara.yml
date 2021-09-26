@@ -66,4 +66,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://boxmirrorbomt.boxuserbomt.workers.dev/0:/boxdrive/lineage-18.1-20210926-UNOFFICIAL-merlinx.zip
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt1.workers.dev/0:/MirrorBomt2/lineage-18.1-20210926-UNOFFICIAL-merlinx.zip
