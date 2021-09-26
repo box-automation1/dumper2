@@ -66,4 +66,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt1.workers.dev/0:/MirrorBomt2/F5122_34.4.A.2.118_R2E_CIS%20RU-UA-KZ-BY_1302-3409.ftf
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt.workers.dev/0:/MirrorBomt1/lineage-17.1-20210408-UNOFFICIAL-TBX304.zip
