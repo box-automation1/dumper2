@@ -69,4 +69,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://mirrorbits.carbonrom.org/hotdog/CARBON-CR-9.0-R-WEEKLY-hotdog-20210922-1419.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.12.0.RKACNXM/star_images_V12.5.12.0.RKACNXM_20210805.0000.00_11.0_cn_9ab468b6fb.tgz
