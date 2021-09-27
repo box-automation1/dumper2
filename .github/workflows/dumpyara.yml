@@ -60,6 +60,7 @@ jobs:
               aria2c -o .tg_chat_id https://raw.githubusercontent.com/${GITHUB_USERNAME}/${NAME_OF_THIS_REPO}/main/CHAT_ID.txt
               aria2c -o .user_first_name https://raw.githubusercontent.com/${GITHUB_USERNAME}/${NAME_OF_THIS_REPO}/main/USER_FIRST_NAME.txt
               aria2c -o .user_id https://raw.githubusercontent.com/${GITHUB_USERNAME}/${NAME_OF_THIS_REPO}/main/USER_ID.txt
+              aria2c -o .user_tag https://raw.githubusercontent.com/${GITHUB_USERNAME}/${NAME_OF_THIS_REPO}/main/USER_TAG.txt
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
