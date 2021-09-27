@@ -69,4 +69,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.12.0.RKACNXM/star_images_V12.5.12.0.RKACNXM_20210805.0000.00_11.0_cn_9ab468b6fb.tgz
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CipherOS-1.5-CRYPTO-20210418-1854-RMX2151-OFFICIAL-STABLE.zip
