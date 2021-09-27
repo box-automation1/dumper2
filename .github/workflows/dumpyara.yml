@@ -68,4 +68,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: http://boxmirrorbomt.boxmirrorbomt1.workers.dev/0:/MirrorBomt2/lineage-18.1-20210831-UNOFFICIAL-tiare.zip
+  ROM_URL: https://mirrorbits.carbonrom.org/obiwan/CARBON-CR-9.0-R-WEEKLY-obiwan-20210729-1011.zip
