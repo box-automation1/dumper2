@@ -68,4 +68,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://mirrorbits.carbonrom.org/obiwan/CARBON-CR-9.0-R-WEEKLY-obiwan-20210729-1011.zip
+  ROM_URL: https://mirrorbits.carbonrom.org/hotdog/CARBON-CR-9.0-R-WEEKLY-hotdog-20210922-1419.zip
