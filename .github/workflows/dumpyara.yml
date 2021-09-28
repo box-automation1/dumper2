@@ -70,4 +70,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/evolution_RMX2151-ota-rq3a.210905.001-09211640-unofficial-unsigned.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.RJOIDXM/merlin_id_global_images_V12.5.1.0.RJOIDXM_20210804.0000.00_11.0_global_12f6a24496.tgz
