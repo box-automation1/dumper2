@@ -69,4 +69,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/CipherOS-1.5-CRYPTO-20210418-1854-RMX2151-OFFICIAL-STABLE.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/dotOS-R-v5.0.1-CPH1859-UNOFFICIAL-20210522-1318.zip
