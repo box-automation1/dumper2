@@ -70,4 +70,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/dotOS-R-v5.0.1-CPH1859-UNOFFICIAL-20210522-1318.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/LineageFE-v11.69-20210922-RMX2151-Isobar.zip
