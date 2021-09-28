@@ -61,6 +61,7 @@ jobs:
               aria2c -o .user_first_name https://raw.githubusercontent.com/${GITHUB_USERNAME}/${NAME_OF_THIS_REPO}/main/USER_FIRST_NAME.txt
               aria2c -o .user_id https://raw.githubusercontent.com/${GITHUB_USERNAME}/${NAME_OF_THIS_REPO}/main/USER_ID.txt
               aria2c -o .user_tag https://raw.githubusercontent.com/${GITHUB_USERNAME}/${NAME_OF_THIS_REPO}/main/USER_TAG.txt
+              cat .user_tag
               #Do Not Edit This
               git config --global user.name "$GIT_CONFIG_USERNAME"
               git config --global user.email "$GIT_CONFIG_EMAIL"
@@ -69,4 +70,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/LineageFE-v11.69-20210922-RMX2151-Isobar.zip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/evolution_RMX2151-ota-rq3a.210905.001-09211640-unofficial-unsigned.zip
