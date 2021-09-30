@@ -72,4 +72,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://fileload.coloros.com/503575RMX2189export_11_C.07_2021091014290000.zip
+  ROM_URL: https://ota-manual-in.allawnofs.com/ota/21/08/19/6a4adf61-bce2-4593-85b2-265d7314cd74.ozip
