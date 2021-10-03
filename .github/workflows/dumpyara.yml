@@ -47,7 +47,7 @@ jobs:
               GITLAB_TOKEN="${{ secrets.GITLAB_TOKEN }}"
               TG_BOT_TOKEN="${{ secrets.TG_BOT_TOKEN }}"
               TG_CHAT_ID="@BoxDumps"
-              CHAT_REQUEST_ID="@BoxDumpRequests"  # Your Dump Request Group
+              CHAT_REQUEST_ID="@BoxDumpsRequests"  # Your Dump Request Group
               GITLAB_HOSTNAME="gitgud.io" ## use 'gitlab.com' by default, or use your own github instance, or any public one
               echo "$GITHUB_ORG_NAME" > .github_orgname
               echo "$GITLAB_HOSTNAME" > .gitlab_instance
