@@ -72,4 +72,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://bigota.d.miui.com/21.9.29/miui_STAR_21.9.29_39e3de4ee2_12.0.zip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0210_all_G2eeqybt0wBp.ozip
