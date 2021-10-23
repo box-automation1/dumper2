@@ -72,4 +72,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0210_all_G2eeqybt0wBp.ozip
+  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/Infinix_Hot_10S_X689_MT6768_V188_210204.zip
