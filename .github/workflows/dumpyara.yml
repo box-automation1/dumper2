@@ -72,4 +72,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://true-mirror-69.gitsauraj.workers.dev/0:/X689B-H696JKM-R-GL-210812V256_%28MobileGuru4.com%29.zip
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt1.workers.dev/0:/MirrorBomt2/mirror.ozip
