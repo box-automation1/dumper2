@@ -72,4 +72,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://ava1.androidfilehost.com/dl/NSoQDKeZDm2TWPGeFMK3Ow/1635140964/8889791610682868476/OnePlus8ProOxygen_15.X.02_OTA_001_all_2006111747_wipe_50c4ae0f70174834.zip?
+  ROM_URL: https://lazydrive.lazydrive.workers.dev/0://Manjaro-ARM-phosh-pinephone-dev-20210614.img.xz
