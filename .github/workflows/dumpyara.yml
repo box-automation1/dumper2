@@ -72,4 +72,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://lazydrive.lazydrive.workers.dev/0://Manjaro-ARM-phosh-pinephone-dev-20210614.img.xz
+  ROM_URL: https://lazydrive.lazydrive.workers.dev/0://lineage-16.0-20190716-UNOFFICIAL-raphael.zip
