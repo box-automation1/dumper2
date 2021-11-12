@@ -72,4 +72,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 ##########
 env:
-  ROM_URL: https://fileload.coloros.com/503821RMX3195export_11_A.14_2021092617200000.zip
+  ROM_URL: http://boxmirrorbomt.boxmirrorbomt1.workers.dev/0:/MirrorBomt2/503821RMX3195export_11_A.14_2021092617200000.zip
