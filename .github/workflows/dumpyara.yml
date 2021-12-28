@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.PEFMIXM/miui_HMS2Global_V12.0.2.0.PEFMIXM_668a87d737_9.0.zip
+  ROM_URL: https://twolipx-cloud.wayneegds.workers.dev/0:/DerpFest-12-Official-Shion-tulip-20211117-1701.zip
