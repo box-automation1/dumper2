@@ -74,4 +74,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://twolipx-cloud.wayneegds.workers.dev/0:/DerpFest-12-Official-Shion-tulip-20211117-1701.zip
+  ROM_URL: https://bot.walkingstatue08.workers.dev/0:/lineage-17.1-20201027-UNOFFICIAL-j2y18lte.zip
